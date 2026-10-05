@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philus-kottey
+- 👋 Hi, I’m @Theophilus_morkporkpor
 
 👀 I’m interested in data analysis, machine learning, and exploring new ways to work with large datasets.
 🌱 I’m currently learning about data transformation techniques, visualization, and improving my Python programming skills.
